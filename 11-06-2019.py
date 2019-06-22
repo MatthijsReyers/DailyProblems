@@ -29,5 +29,4 @@ def FindOnePass(l,k):
             pass
     return False
 
-if __name__ == '__main__': 
-    print(FindOnePass(L,K))
+if __name__ == '__main__': print(FindOnePass(L,K))
